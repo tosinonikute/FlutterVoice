@@ -1,8 +1,6 @@
-# voice_summary
+# Flutter Voice
 
-A new Flutter project to showcase Google Gemini API & Google Cloud APIs.
-
-Google Developer Group - Building with AI.
+A new Flutter project to showcase Google Gemini API capabilities & Google Cloud APIs.
 
 ## Getting Started
 
